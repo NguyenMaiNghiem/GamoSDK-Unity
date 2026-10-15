@@ -1,0 +1,11 @@
+{
+  "name": "com.gamo.sdk",
+  "version": "1.0.0",
+  "displayName": "Gamo SDK",
+  "description": "Gamo mobile SDK (obfuscated runtime).",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.textmeshpro": "3.0.6"
+  }
+}
